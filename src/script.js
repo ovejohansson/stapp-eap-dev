@@ -1,1 +1,5 @@
-console.log('Hej Erik!')
+import functionName from "./main";
+
+console.log('Hej Erik!');
+
+functionName();
