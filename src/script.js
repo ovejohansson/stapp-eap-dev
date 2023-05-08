@@ -1,4 +1,4 @@
-import functionName from "./main";
+import functionName from "./main.js";
 
 console.log('Hej Erik!');
 
